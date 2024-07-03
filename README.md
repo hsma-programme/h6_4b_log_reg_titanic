@@ -6,7 +6,7 @@
 
 ## Lecture Recording
 
-<a href="https://youtu.be/0Cw6LK-MO_w?feature=shared"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+QGIS+section&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the lecture"></a>
+<a href="https://youtu.be/0Cw6LK-MO_w?feature=shared"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+lecture&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the lecture"></a>
 
 
 ## Exercises
