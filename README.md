@@ -2,11 +2,12 @@
 
 ## Slides
 
-Coming Soon
+<a href="https://docs.google.com/presentation/d/1MdLRe4-089MsEWttK9OgFvgBX8EqJ6LFCRC72zyz1jI/edit?usp=sharing"><img src="https://img.shields.io/static/v1?label=Google+Slides&message=Click+here+to+view+the+slides+for+this+session&color=%23FBBC04&style=for-the-badge&logo=googleslides&logoColor=%23FBBC04" alt="Google Slides - Click here to view slides for this session"></a>
 
 ## Lecture Recording
 
-Coming Soon
+<a href="https://youtu.be/0Cw6LK-MO_w?feature=shared"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+QGIS+section&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the lecture"></a>
+
 
 ## Exercises
 
